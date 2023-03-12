@@ -1,0 +1,24 @@
+body{
+	background-image:url('../image/bg.jpg');
+}
+
+.border
+  {
+    border:thin black solid;
+    margin:40px;
+    padding:40px;
+  }
+  .col-mid-4{
+  font-size:20px;
+  }
+  .nav{
+ font-size:20px;
+ 
+ }
+ .navbar{
+ font-size:20px;
+ 
+ }
+ .nav-bar{
+ font-size:20px;
+ }
